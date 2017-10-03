@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Inventory>
+	<Items>
+		<Item>
+			<ItemId>1</ItemId>
+			<ItemDesc>Brakes</ItemDesc>
+			<Quantity>4443</Quantity>
+		</Item>
+		<Item>
+			<ItemId>2</ItemId>
+			<ItemDesc>Wipers</ItemDesc>
+			<Quantity>234</Quantity>
+		</Item>
+		<Item>
+			<ItemId>3</ItemId>
+			<ItemDesc>Rear Mirror</ItemDesc>
+			<Quantity>34</Quantity>
+		</Item>
+		<Item>
+			<ItemId>4</ItemId>
+			<ItemDesc>Front Mirror</ItemDesc>
+			<Quantity>876</Quantity>
+		</Item>
+	</Items>
+</Inventory>

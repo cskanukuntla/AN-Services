@@ -1,0 +1,13 @@
+<jaxb:bindings xmlns:jaxb="http://java.sun.com/xml/ns/jaxb" xmlns:xjc="http://java.sun.com/xml/ns/jaxb/xjc"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" version="2.0" schemaLocation="../xsd/Inventory.xsd">
+
+    <jaxb:globalBindings>
+        <xjc:serializable uid="1" />
+        <xjc:simple/>
+    </jaxb:globalBindings>
+
+    <jaxb:schemaBindings>
+        <jaxb:package name="com.an.inventorybatch.model" />
+    </jaxb:schemaBindings>
+
+</jaxb:bindings>
